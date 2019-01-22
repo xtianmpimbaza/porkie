@@ -2,9 +2,9 @@
     <string name="app_name">Porkie</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">emmask@gmail.com</string>
+    <string name="nav_header_desc">Porkie App</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_maps">Map</string>
 
